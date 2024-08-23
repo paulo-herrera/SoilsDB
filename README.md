@@ -77,7 +77,8 @@ Unsaturated flow properties can be set with the following statement:
     /
 ```
 
-In this case $M = 1-1/n$ and *LIQUID_RESIDUAL_SATURATION* is $\theta_r$.
+In this case $M = 1-1/n$, *LIQUID_RESIDUAL_SATURATION* is $\theta_r$ and *ALPHA* must be in
+[1/Pa].
 
 
 Caveats
