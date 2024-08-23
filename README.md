@@ -1,7 +1,7 @@
 Unsaturated flow properties for different unconsolidated sediments
 ==================================================================
 
-.. image:: all_soils.png
+![Alt text](all_soils.png?raw=true "Unsaturate flow curves") 
 
 
 Introduction
