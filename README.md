@@ -90,12 +90,12 @@ The included curves **do not** consider hysteresis, which can be important in ma
 REFERENCES
 ---------- 
 
-Leij, F. J. (1996). The UNSODA unsaturated soil hydraulic database: user's manual (Vol. 96, No. 95). National Risk Management Research Laboratory, Office of Research and Development, US Environmental Protection Agency.
+1. Leij, F. J. (1996). The UNSODA unsaturated soil hydraulic database: user's manual (Vol. 96, No. 95). National Risk Management Research Laboratory, Office of Research and Development, US Environmental Protection Agency.
 
-Nemes, A. D., Schaap, M. G., Leij, F. J., & Wösten, J. H. M. (2001). Description of the unsaturated soil hydraulic database UNSODA version 2.0. Journal of hydrology, 251(3-4), 151-162.
+2. Nemes, A. D., Schaap, M. G., Leij, F. J., & Wösten, J. H. M. (2001). Description of the unsaturated soil hydraulic database UNSODA version 2.0. Journal of hydrology, 251(3-4), 151-162.
 
-Mualem, Y. (1976). A new model for predicting the hydraulic conductivity of unsaturated porous media. Water resources research, 12(3), 513-522.
+3. Mualem, Y. (1976). A new model for predicting the hydraulic conductivity of unsaturated porous media. Water resources research, 12(3), 513-522.
 
-Mualem, Y. (1976b). Hysteretical models for prediction of the hydraulic conductivity of unsaturated porous media. Water resources research, 12(6), 1248-1254.
+4. Mualem, Y. (1976b). Hysteretical models for prediction of the hydraulic conductivity of unsaturated porous media. Water resources research, 12(6), 1248-1254.
 
-van Genuchten, M. T. (1980). A closed‐form equation for predicting the hydraulic conductivity of unsaturated soils. Soil science society of America journal, 44(5), 892-898.
+5. van Genuchten, M. T. (1980). A closed‐form equation for predicting the hydraulic conductivity of unsaturated soils. Soil science society of America journal, 44(5), 892-898.
