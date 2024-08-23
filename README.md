@@ -59,8 +59,9 @@ Units for values are: [alpha] 1/cm, saturated hydraulic conductivity [Ks] cm/day
 PFLOTRAN Users
 --------------
 
-Unsaturated flow properties can be set with the following statement::
+Unsaturated flow properties can be set with the following statement:
 
+```
     CHARACTERISTIC_CURVES sand_cc
         SATURATION_FUNCTION VAN_GENUCHTEN
             M 0.59142d0
@@ -74,6 +75,7 @@ Unsaturated flow properties can be set with the following statement::
             SMOOTH
         /
     /
+``
 
 In this case $M = 1-1/n$ and *LIQUID_RESIDUAL_SATURATION* is $\theta_r$.
 
