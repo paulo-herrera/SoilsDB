@@ -95,16 +95,16 @@ The included curves **do not** consider hysteresis, which can be important in ma
 REFERENCES
 ---------- 
 
-1. Brooks, R. H., & Corey, A. T. (1963). Hydraulic properties of porous media and their relationship to drainage design.
+1. Brooks, R. H., & Corey, A. T. (1963). Hydraulic properties of porous media and their relationship to drainage design. Annual Meeting American Society of Agricultural Engineers, 63-214.
 
 2. Leij, F. J. (1996). The UNSODA unsaturated soil hydraulic database: user's manual (Vol. 96, No. 95). National Risk Management Research Laboratory, Office of Research and Development, US Environmental Protection Agency.
 
 3. Lenhard, R. J., Parker, J. C., & Mishra, S. (1989). On the correspondence between Brooks-Corey and van Genuchten models. Journal of Irrigation and Drainage Engineering, 115(4), 744-751.
 
-4. Nemes, A. D., Schaap, M. G., Leij, F. J., & Wösten, J. H. M. (2001). Description of the unsaturated soil hydraulic database UNSODA version 2.0. Journal of hydrology, 251(3-4), 151-162.
+4. Nemes, A. D., Schaap, M. G., Leij, F. J., & Wösten, J. H. M. (2001). Description of the unsaturated soil hydraulic database UNSODA version 2.0. Journal of Hydrology, 251(3-4), 151-162.
 
-5. Mualem, Y. (1976). A new model for predicting the hydraulic conductivity of unsaturated porous media. Water resources research, 12(3), 513-522.
+5. Mualem, Y. (1976). A new model for predicting the hydraulic conductivity of unsaturated porous media. Water Resources Research, 12(3), 513-522.
 
-6. Mualem, Y. (1976b). Hysteretical models for prediction of the hydraulic conductivity of unsaturated porous media. Water resources research, 12(6), 1248-1254.
+6. Mualem, Y. (1976b). Hysteretical models for prediction of the hydraulic conductivity of unsaturated porous media. Water Resources Research, 12(6), 1248-1254.
 
-7. van Genuchten, M. T. (1980). A closed‐form equation for predicting the hydraulic conductivity of unsaturated soils. Soil science society of America journal, 44(5), 892-898.
+7. van Genuchten, M. T. (1980). A closed‐form equation for predicting the hydraulic conductivity of unsaturated soils. Soil Science Society of America Journal, 44(5), 892-898.
