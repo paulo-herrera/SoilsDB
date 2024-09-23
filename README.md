@@ -22,13 +22,17 @@ $Se = [1 + (\alpha \cdot h)^n]^{-m}$, $m = 1 - 1 / n$
 
 and the relative permeability formula proposed by Brooks-Corey (1963):
 
-$k_r = Se^n$,
+$k_r = Se^\beta$,
 
-where saturation $Se = (\theta - \theta_r) / (\theta_{sat} - \theta_r)$ and, $\theta$ is the volumetic water content, $\theta_{sat}$ is the saturated water content, usually aproximated equal to porosity; and $\theta_r$ is the residual water content.
+where saturation $Se = (\theta - \theta_r) / (\theta_{sat} - \theta_r)$ and, $\theta$ is the volumetic water content, $\theta_{sat}$ is the saturated water content, usually aproximated equal to porosity; and $\theta_r$ is the residual water content. Usually, the parameter $\beta$ is related to the pore size distribution index ($\lambda$) using $\beta = (2+3\lambda)/lambda$. It is possible to relate the parameters of both models to obtain (Lenhard et al., 1989):
 
+$\lambda = \frac{m}{1-m} [1 - S_e^{1/m}]$
+
+Assuming a constant saturation $S_e = 0$ to evaluate the last expression, we obtain $\beta = 2 - 1/n$.
 
 Contents
 --------
+
 
 The **data** directory contains data for 12 soils listed in Leij (1996). 
 There are two files for each soil: 
@@ -95,10 +99,12 @@ REFERENCES
 
 2. Leij, F. J. (1996). The UNSODA unsaturated soil hydraulic database: user's manual (Vol. 96, No. 95). National Risk Management Research Laboratory, Office of Research and Development, US Environmental Protection Agency.
 
-3. Nemes, A. D., Schaap, M. G., Leij, F. J., & Wösten, J. H. M. (2001). Description of the unsaturated soil hydraulic database UNSODA version 2.0. Journal of hydrology, 251(3-4), 151-162.
+3. Lenhard, R. J., Parker, J. C., & Mishra, S. (1989). On the correspondence between Brooks-Corey and van Genuchten models. Journal of Irrigation and Drainage Engineering, 115(4), 744-751.
 
-4. Mualem, Y. (1976). A new model for predicting the hydraulic conductivity of unsaturated porous media. Water resources research, 12(3), 513-522.
+4. Nemes, A. D., Schaap, M. G., Leij, F. J., & Wösten, J. H. M. (2001). Description of the unsaturated soil hydraulic database UNSODA version 2.0. Journal of hydrology, 251(3-4), 151-162.
 
-5. Mualem, Y. (1976b). Hysteretical models for prediction of the hydraulic conductivity of unsaturated porous media. Water resources research, 12(6), 1248-1254.
+5. Mualem, Y. (1976). A new model for predicting the hydraulic conductivity of unsaturated porous media. Water resources research, 12(3), 513-522.
 
-6. van Genuchten, M. T. (1980). A closed‐form equation for predicting the hydraulic conductivity of unsaturated soils. Soil science society of America journal, 44(5), 892-898.
+6. Mualem, Y. (1976b). Hysteretical models for prediction of the hydraulic conductivity of unsaturated porous media. Water resources research, 12(6), 1248-1254.
+
+7. van Genuchten, M. T. (1980). A closed‐form equation for predicting the hydraulic conductivity of unsaturated soils. Soil science society of America journal, 44(5), 892-898.
