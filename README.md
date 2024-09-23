@@ -24,7 +24,7 @@ and the relative permeability formula proposed by Brooks-Corey (1963):
 
 $k_r = Se^\beta$,
 
-where saturation $Se = (\theta - \theta_r) / (\theta_{sat} - \theta_r)$ and, $\theta$ is the volumetic water content, $\theta_{sat}$ is the saturated water content, usually aproximated equal to porosity; and $\theta_r$ is the residual water content. Usually, the parameter $\beta$ is related to the pore size distribution index ($\lambda$) using $\beta = (2+3\lambda)/lambda$. It is possible to relate the parameters of both models to obtain (Lenhard et al., 1989):
+where saturation $Se = (\theta - \theta_r) / (\theta_{sat} - \theta_r)$ and, $\theta$ is the volumetic water content, $\theta_{sat}$ is the saturated water content, usually aproximated equal to porosity; and $\theta_r$ is the residual water content. Usually, the parameter $\beta$ is related to the pore size distribution index ($\lambda$) using $\beta = (2+3\lambda)/\lambda$. It is possible to relate the parameters of both models to obtain (Lenhard et al., 1989):
 
 $\lambda = \frac{m}{1-m} [1 - S_e^{1/m}]$
 
